@@ -5,7 +5,7 @@ import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
 /**
- * Created by fax6 on 21/10/17.
+ * Created by gbalasubramanian on 21/10/17.
  */
 public class ProducerConsumer {
     static Lock lock = new ReentrantLock(true);

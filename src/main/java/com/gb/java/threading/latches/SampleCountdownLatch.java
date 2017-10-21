@@ -5,7 +5,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 /**
- * Created by fax6 on 21/10/17.
+ * Created by gbalasubramanian on 21/10/17.
  */
 public class SampleCountdownLatch {
     public static void main(String[] args) {

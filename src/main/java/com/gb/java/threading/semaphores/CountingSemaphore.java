@@ -6,7 +6,7 @@ import java.util.concurrent.Semaphore;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Created by fax6 on 21/10/17.
+ * Created by gbalasubramanian on 21/10/17.
  */
 public class CountingSemaphore {
     public static void main(String[] args) {
